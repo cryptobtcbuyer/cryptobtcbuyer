@@ -15,10 +15,9 @@ I actively participate in many  testnets of such networks as __COSMOS__, __Polka
 1. [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper1g88k52xwxl49hjxm0hud5fd08ntkg0ykua0gjq)
 1. [Nomic](https://nomic.zenscan.io/validator.php?addr=nomic1sv9xl46wwhg34mjnkaqd669gp4ptcjvyu56yj5)
 1. [Genesisl1](https://ping.pub/genesisl1/staking/genesisvaloper14ffhw6jplvhx0kn449hg55m5dd58f245nvsqkf)
-1. [BeeZee](https://explorer.erialos.me/beezee/staking/bzevaloper1cgtrksac0pjj53lym42uaxrjsumtql296znp4m)
+1. [BeeZee](https://explorer.thesilverfox.pro/beezee/staking/bzevaloper1cgtrksac0pjj53lym42uaxrjsumtql296znp4m)
 1. [MEME](https://ping.pub/meme/staking/memevaloper1nd5920jd3rynsjl7tqler3xnal9433qtqfyn0q)
-1. [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper132szhrframlw0xvzzj4a96ys4u4ue79y36xkyu)
-1. [Mises](https://gw.mises.site/validators)
+1. [Mises](https://gw.mises.site/validators/misesvaloper1vt650vl6lmg777my3kn9jghatxrge8rh7ne9tr)
 
 
 
