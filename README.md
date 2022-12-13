@@ -8,7 +8,7 @@ I actively participate in many  testnets of such networks as __COSMOS__, __Polka
 #### 🧾 My mainnets:
 
 1. [Evmos (genesis validator)](https://www.mintscan.io/evmos/validators/evmosvaloper1j6zuz54sum48ylpzjqt4jugjmr4lw6srudv7c4) *inactive*
-1. [Pylons](https://explorer.stavr.tech/pylons/staking/pylovaloper1m8vpsh5awhpwuhm5kyp77ljqr9knqnclrlpk3m)
+1. [Pylons (genesis validator)](https://explorer.stavr.tech/pylons/staking/pylovaloper1m8vpsh5awhpwuhm5kyp77ljqr9knqnclrlpk3m)
 1. [Bitsong](https://ping.pub/bitsong/staking/bitsongvaloper17dpklyxlrn9kypkd3khy9t98v8qddnghllnt7x)
 1. [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1v8ghx334ql2jpu0qgjfre95lnkzvlt7t7py9gr)
 1. [Konstellation](https://www.mintscan.io/konstellation/validators/darcvaloper149ggrnzvlm5pdgk53295f9nqr0d29j32d8r9yt)
