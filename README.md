@@ -8,14 +8,13 @@ I actively participate in many  testnets of such networks as __COSMOS__, __Polka
 #### 🧾 My mainnets:
 
 1. [Evmos (genesis validator)](https://www.mintscan.io/evmos/validators/evmosvaloper1j6zuz54sum48ylpzjqt4jugjmr4lw6srudv7c4) *inactive*
+1. [Realio (genesis validator)](https://explorer.stavr.tech/realio-mainnet/staking/realiovaloper1q9xw5t6lsf848yylkcen5x7f6fg346g2ake6zt)
 1. [Pylons (genesis validator)](https://explorer.stavr.tech/pylons/staking/pylovaloper1m8vpsh5awhpwuhm5kyp77ljqr9knqnclrlpk3m)
 1. [Bitsong](https://ping.pub/bitsong/staking/bitsongvaloper17dpklyxlrn9kypkd3khy9t98v8qddnghllnt7x)
-1. [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1v8ghx334ql2jpu0qgjfre95lnkzvlt7t7py9gr)
 1. [Konstellation](https://www.mintscan.io/konstellation/validators/darcvaloper149ggrnzvlm5pdgk53295f9nqr0d29j32d8r9yt)
 1. [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper1g88k52xwxl49hjxm0hud5fd08ntkg0ykua0gjq)
 1. [Nomic](https://nomic.zenscan.io/validator.php?addr=nomic1sv9xl46wwhg34mjnkaqd669gp4ptcjvyu56yj5)
 1. [Provenance](https://www.mintscan.io/provenance/validators/pbvaloper1hxd75vuud3gddkfpglkzzsvpjwrz9zf05xu4ss)
-3. [Genesisl1](https://ping.pub/genesisl1/staking/genesisvaloper14ffhw6jplvhx0kn449hg55m5dd58f245nvsqkf)
 4. [BeeZee](https://explorer.thesilverfox.pro/beezee/staking/bzevaloper1cgtrksac0pjj53lym42uaxrjsumtql296znp4m)
 5. [MEME](https://ping.pub/meme/staking/memevaloper1nd5920jd3rynsjl7tqler3xnal9433qtqfyn0q)
 6. [Mises](https://gw.mises.site/validators/misesvaloper1vt650vl6lmg777my3kn9jghatxrge8rh7ne9tr)
