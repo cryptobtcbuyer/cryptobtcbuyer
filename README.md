@@ -7,7 +7,8 @@ I actively participate in many  testnets of such networks as __COSMOS__, __Polka
 
 #### 🧾 My mainnets:
 
-1. [Gitopia (genesis validator)](https://gitopia.exploreme.pro/validator/gitopiavaloper1ecfkxm78mpw5t83pd375wpjdmn4v0fe0s38khc) 
+1. [Gitopia (genesis validator)](https://gitopia.exploreme.pro/validator/gitopiavaloper1ecfkxm78mpw5t83pd375wpjdmn4v0fe0s38khc)
+1. [EYWA](https://explorer.eywa.fi/validators/?search=cryptobtcbuyer) 
 1. [Realio (genesis validator)](https://explorer.stavr.tech/realio-mainnet/staking/realiovaloper1q9xw5t6lsf848yylkcen5x7f6fg346g2ake6zt)
 1. [Pylons (genesis validator)](https://explorer.stavr.tech/pylons/staking/pylovaloper1m8vpsh5awhpwuhm5kyp77ljqr9knqnclrlpk3m)
 1. [Bitsong](https://ping.pub/bitsong/staking/bitsongvaloper17dpklyxlrn9kypkd3khy9t98v8qddnghllnt7x)
