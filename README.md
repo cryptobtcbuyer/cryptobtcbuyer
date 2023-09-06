@@ -18,7 +18,7 @@ I actively participate in many  testnets of such networks as __COSMOS__, __Polka
 1. [Provenance](https://www.mintscan.io/provenance/validators/pbvaloper1hxd75vuud3gddkfpglkzzsvpjwrz9zf05xu4ss)
 4. [BeeZee](https://explorer.thesilverfox.pro/beezee/staking/bzevaloper1cgtrksac0pjj53lym42uaxrjsumtql296znp4m)
 5. [MEME](https://ping.pub/meme/staking/memevaloper1nd5920jd3rynsjl7tqler3xnal9433qtqfyn0q)
-6. [Mises](https://gw.mises.site/validators/misesvaloper1vt650vl6lmg777my3kn9jghatxrge8rh7ne9tr)
+
 
 
 
