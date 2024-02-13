@@ -7,10 +7,11 @@ I actively participate in many  testnets of such networks as __COSMOS__, __Polka
 
 #### 🧾 My mainnets:
 1. [HAQQ](https://shell.haqq.network/staking/validator/haqqvaloper137867ch7xxe3a95a2rhs9xntzjp9q7yg0ylvgk)
-1. [Gitopia (genesis validator)](https://gitopia.exploreme.pro/validator/gitopiavaloper1ecfkxm78mpw5t83pd375wpjdmn4v0fe0s38khc)
+1. [Gitopia (genesis validator)](https://gitopia.exploreme.pro/validators/gitopiavaloper1ecfkxm78mpw5t83pd375wpjdmn4v0fe0s38khc)
 1. [EYWA](https://explorer.eywa.fi/validators/?search=cryptobtcbuyer) 
 1. [Realio (genesis validator)](https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1q9xw5t6lsf848yylkcen5x7f6fg346g2ake6zt)
 1. [Pylons (genesis validator)](https://explorer.stavr.tech/Pylons/staking/pylovaloper1m8vpsh5awhpwuhm5kyp77ljqr9knqnclrlpk3m)
+1. [Uptick](https://explorer.uptick.network/uptick-mainnet/staking/uptickvaloper1gl3muau04ulujy490ge6lfzjwpl9h6zy7zvw9v)
 1. [Bitsong](https://ping.pub/bitsong/staking/bitsongvaloper17dpklyxlrn9kypkd3khy9t98v8qddnghllnt7x)
 1. [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper1g88k52xwxl49hjxm0hud5fd08ntkg0ykua0gjq)
 1. [Provenance](https://explorer.stavr.tech/Provenance/staking/pbvaloper1hxd75vuud3gddkfpglkzzsvpjwrz9zf05xu4ss)
